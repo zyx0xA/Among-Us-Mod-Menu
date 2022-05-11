@@ -1,0 +1,1 @@
+0x00CEFF = 00 0D E0 FF FF DD
